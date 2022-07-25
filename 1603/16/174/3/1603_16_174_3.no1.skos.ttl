@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:174()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:111" ;
     skos:prefLabel "Bambao Mtsanga"@eng-Latn ;
-    wdata:q7200235 "KM111" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -94,7 +92,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:112" ;
     skos:prefLabel "Domoni"@eng-Latn ;
-    wdata:q7200235 "KM112" ;
 .
 
 <urn:mdciii:1603:16:174:3:113>
@@ -103,7 +100,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:113" ;
     skos:prefLabel "Jimlimé"@eng-Latn ;
-    wdata:q7200235 "KM113" ;
 .
 
 <urn:mdciii:1603:16:174:3:114>
@@ -112,7 +108,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:114" ;
     skos:prefLabel "Koni"@eng-Latn ;
-    wdata:q7200235 "KM114" ;
 .
 
 <urn:mdciii:1603:16:174:3:115>
@@ -121,7 +116,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:115" ;
     skos:prefLabel "Ngandzalé"@eng-Latn ;
-    wdata:q7200235 "KM115" ;
 .
 
 <urn:mdciii:1603:16:174:3:121>
@@ -130,7 +124,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:121" ;
     skos:prefLabel "Adda"@eng-Latn ;
-    wdata:q7200235 "KM121" ;
 .
 
 <urn:mdciii:1603:16:174:3:122>
@@ -139,7 +132,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:122" ;
     skos:prefLabel "Chaweni"@eng-Latn ;
-    wdata:q7200235 "KM122" ;
 .
 
 <urn:mdciii:1603:16:174:3:123>
@@ -148,7 +140,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:123" ;
     skos:prefLabel "Mramani"@eng-Latn ;
-    wdata:q7200235 "KM123" ;
 .
 
 <urn:mdciii:1603:16:174:3:124>
@@ -157,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:124" ;
     skos:prefLabel "Mrémani"@eng-Latn ;
-    wdata:q7200235 "KM124" ;
 .
 
 <urn:mdciii:1603:16:174:3:125>
@@ -166,7 +156,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:125" ;
     skos:prefLabel "Ongojou"@eng-Latn ;
-    wdata:q7200235 "KM125" ;
 .
 
 <urn:mdciii:1603:16:174:3:131>
@@ -175,7 +164,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:131" ;
     skos:prefLabel "Bandrani Ya Chironkamba"@eng-Latn ;
-    wdata:q7200235 "KM131" ;
 .
 
 <urn:mdciii:1603:16:174:3:132>
@@ -184,7 +172,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:132" ;
     skos:prefLabel "Bandrani Ya Mtsangani"@eng-Latn ;
-    wdata:q7200235 "KM132" ;
 .
 
 <urn:mdciii:1603:16:174:3:133>
@@ -193,7 +180,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:133" ;
     skos:prefLabel "Mirontsi"@eng-Latn ;
-    wdata:q7200235 "KM133" ;
 .
 
 <urn:mdciii:1603:16:174:3:134>
@@ -202,7 +188,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:134" ;
     skos:prefLabel "Mutsamudu"@eng-Latn ;
-    wdata:q7200235 "KM134" ;
 .
 
 <urn:mdciii:1603:16:174:3:141>
@@ -211,7 +196,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:141" ;
     skos:prefLabel "Bambao Mtrouni"@eng-Latn ;
-    wdata:q7200235 "KM141" ;
 .
 
 <urn:mdciii:1603:16:174:3:142>
@@ -220,7 +204,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:142" ;
     skos:prefLabel "Bazimini"@eng-Latn ;
-    wdata:q7200235 "KM142" ;
 .
 
 <urn:mdciii:1603:16:174:3:143>
@@ -229,7 +212,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:143" ;
     skos:prefLabel "Ouani"@eng-Latn ;
-    wdata:q7200235 "KM143" ;
 .
 
 <urn:mdciii:1603:16:174:3:151>
@@ -238,7 +220,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:151" ;
     skos:prefLabel "Moya"@eng-Latn ;
-    wdata:q7200235 "KM151" ;
 .
 
 <urn:mdciii:1603:16:174:3:152>
@@ -247,7 +228,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:152" ;
     skos:prefLabel "Sima"@eng-Latn ;
-    wdata:q7200235 "KM152" ;
 .
 
 <urn:mdciii:1603:16:174:3:153>
@@ -256,7 +236,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:153" ;
     skos:prefLabel "Vouani"@eng-Latn ;
-    wdata:q7200235 "KM153" ;
 .
 
 <urn:mdciii:1603:16:174:3:211>
@@ -265,7 +244,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:211" ;
     skos:prefLabel "Mboinkou"@eng-Latn ;
-    wdata:q7200235 "KM211" ;
 .
 
 <urn:mdciii:1603:16:174:3:212>
@@ -274,7 +252,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:212" ;
     skos:prefLabel "Nyuma Mro"@eng-Latn ;
-    wdata:q7200235 "KM212" ;
 .
 
 <urn:mdciii:1603:16:174:3:213>
@@ -283,7 +260,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:213" ;
     skos:prefLabel "Nyuma Msiru"@eng-Latn ;
-    wdata:q7200235 "KM213" ;
 .
 
 <urn:mdciii:1603:16:174:3:221>
@@ -292,7 +268,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:221" ;
     skos:prefLabel "Djoumoipangua"@eng-Latn ;
-    wdata:q7200235 "KM221" ;
 .
 
 <urn:mdciii:1603:16:174:3:222>
@@ -301,7 +276,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:222" ;
     skos:prefLabel "Tsinimoipangua"@eng-Latn ;
-    wdata:q7200235 "KM222" ;
 .
 
 <urn:mdciii:1603:16:174:3:231>
@@ -310,7 +284,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:231" ;
     skos:prefLabel "Bangaani"@eng-Latn ;
-    wdata:q7200235 "KM231" ;
 .
 
 <urn:mdciii:1603:16:174:3:232>
@@ -319,7 +292,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:232" ;
     skos:prefLabel "Djoumoichongo"@eng-Latn ;
-    wdata:q7200235 "KM232" ;
 .
 
 <urn:mdciii:1603:16:174:3:233>
@@ -328,7 +300,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:233" ;
     skos:prefLabel "Hamanvou"@eng-Latn ;
-    wdata:q7200235 "KM233" ;
 .
 
 <urn:mdciii:1603:16:174:3:234>
@@ -337,7 +308,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:234" ;
     skos:prefLabel "Isahari"@eng-Latn ;
-    wdata:q7200235 "KM234" ;
 .
 
 <urn:mdciii:1603:16:174:3:235>
@@ -346,7 +316,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:235" ;
     skos:prefLabel "Mbadani"@eng-Latn ;
-    wdata:q7200235 "KM235" ;
 .
 
 <urn:mdciii:1603:16:174:3:241>
@@ -355,7 +324,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:241" ;
     skos:prefLabel "Domba"@eng-Latn ;
-    wdata:q7200235 "KM241" ;
 .
 
 <urn:mdciii:1603:16:174:3:242>
@@ -364,7 +332,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:242" ;
     skos:prefLabel "Itsahidi"@eng-Latn ;
-    wdata:q7200235 "KM242" ;
 .
 
 <urn:mdciii:1603:16:174:3:243>
@@ -373,7 +340,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:243" ;
     skos:prefLabel "Pimba"@eng-Latn ;
-    wdata:q7200235 "KM243" ;
 .
 
 <urn:mdciii:1603:16:174:3:251>
@@ -382,7 +348,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:251" ;
     skos:prefLabel "Ngouengoe"@eng-Latn ;
-    wdata:q7200235 "KM251" ;
 .
 
 <urn:mdciii:1603:16:174:3:252>
@@ -391,7 +356,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:252" ;
     skos:prefLabel "Nioumagama"@eng-Latn ;
-    wdata:q7200235 "KM252" ;
 .
 
 <urn:mdciii:1603:16:174:3:261>
@@ -400,7 +364,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:261" ;
     skos:prefLabel "Cembenoi Lac Salé"@eng-Latn ;
-    wdata:q7200235 "KM261" ;
 .
 
 <urn:mdciii:1603:16:174:3:262>
@@ -409,7 +372,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:262" ;
     skos:prefLabel "Cembenoi Sada Djoulamlima"@eng-Latn ;
-    wdata:q7200235 "KM262" ;
 .
 
 <urn:mdciii:1603:16:174:3:263>
@@ -418,7 +380,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:263" ;
     skos:prefLabel "Mitsamiouli"@eng-Latn ;
-    wdata:q7200235 "KM263" ;
 .
 
 <urn:mdciii:1603:16:174:3:264>
@@ -427,7 +388,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:264" ;
     skos:prefLabel "Nyuma Komo"@eng-Latn ;
-    wdata:q7200235 "KM264" ;
 .
 
 <urn:mdciii:1603:16:174:3:265>
@@ -436,7 +396,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:265" ;
     skos:prefLabel "Nyumamro Kiblani"@eng-Latn ;
-    wdata:q7200235 "KM265" ;
 .
 
 <urn:mdciii:1603:16:174:3:266>
@@ -445,7 +404,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:266" ;
     skos:prefLabel "Nyumamro Souheili"@eng-Latn ;
-    wdata:q7200235 "KM266" ;
 .
 
 <urn:mdciii:1603:16:174:3:271>
@@ -454,7 +412,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:271" ;
     skos:prefLabel "Bambao Ya Hari"@eng-Latn ;
-    wdata:q7200235 "KM271" ;
 .
 
 <urn:mdciii:1603:16:174:3:272>
@@ -463,7 +420,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:272" ;
     skos:prefLabel "Bambao Ya Mboini"@eng-Latn ;
-    wdata:q7200235 "KM272" ;
 .
 
 <urn:mdciii:1603:16:174:3:273>
@@ -472,7 +428,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:273" ;
     skos:prefLabel "Bambao Yadjou"@eng-Latn ;
-    wdata:q7200235 "KM273" ;
 .
 
 <urn:mdciii:1603:16:174:3:274>
@@ -481,7 +436,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:274" ;
     skos:prefLabel "Moroni"@eng-Latn ;
-    wdata:q7200235 "KM274" ;
 .
 
 <urn:mdciii:1603:16:174:3:281>
@@ -490,7 +444,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:281" ;
     skos:prefLabel "Dimani"@eng-Latn ;
-    wdata:q7200235 "KM281" ;
 .
 
 <urn:mdciii:1603:16:174:3:282>
@@ -499,7 +452,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:282" ;
     skos:prefLabel "Oichili Yadjou"@eng-Latn ;
-    wdata:q7200235 "KM282" ;
 .
 
 <urn:mdciii:1603:16:174:3:283>
@@ -508,7 +460,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:283" ;
     skos:prefLabel "Oichili Yamboini"@eng-Latn ;
-    wdata:q7200235 "KM283" ;
 .
 
 <urn:mdciii:1603:16:174:3:291>
@@ -517,7 +468,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:291" ;
     skos:prefLabel "Cratère du Karthala"@eng-Latn ;
-    wdata:q7200235 "KM291" ;
 .
 
 <urn:mdciii:1603:16:174:3:311>
@@ -526,7 +476,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:311" ;
     skos:prefLabel "Djando"@eng-Latn ;
-    wdata:q7200235 "KM311" ;
 .
 
 <urn:mdciii:1603:16:174:3:321>
@@ -535,7 +484,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:321" ;
     skos:prefLabel "Fomboni"@eng-Latn ;
-    wdata:q7200235 "KM321" ;
 .
 
 <urn:mdciii:1603:16:174:3:322>
@@ -544,7 +492,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:322" ;
     skos:prefLabel "Moili Mdjini"@eng-Latn ;
-    wdata:q7200235 "KM322" ;
 .
 
 <urn:mdciii:1603:16:174:3:323>
@@ -553,7 +500,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:323" ;
     skos:prefLabel "Moimbassa"@eng-Latn ;
-    wdata:q7200235 "KM323" ;
 .
 
 <urn:mdciii:1603:16:174:3:331>
@@ -562,7 +508,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:331" ;
     skos:prefLabel "Mlédjélé"@eng-Latn ;
-    wdata:q7200235 "KM331" ;
 .
 
 <urn:mdciii:1603:16:174:3:332>
@@ -571,6 +516,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:174:3:332" ;
     skos:prefLabel "Moimbao"@eng-Latn ;
-    wdata:q7200235 "KM332" ;
 .
 
